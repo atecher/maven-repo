@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.atecher</groupId>
-  <artifactId>mybatis-generator-plugin</artifactId>
+  <artifactId>mybatis-generator-plus</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20171230112922</lastUpdated>
+    <lastUpdated>20171231145206</lastUpdated>
   </versioning>
 </metadata>
